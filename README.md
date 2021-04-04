@@ -2,7 +2,7 @@
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning javascript & php
 - 💞️ I’m looking to collaborate on Joomla projects
-- 📫 How to reach me https://pierretaieb.com
+- 📫 How to reach me pierretaieb@yahoo.com
 
 <!---
 Piermex/Piermex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
